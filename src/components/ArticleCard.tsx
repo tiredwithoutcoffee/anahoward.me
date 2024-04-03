@@ -5,7 +5,7 @@ const ArticleCard = ({ section }) => {
 	return (
 		<motion.a
 			whileHover="groupHover"
-			href="https://typefully.com/AnaArsonist"
+			href="https://kieran.co.uk/blog"
 			rel="noreferrer"
 			animate={{ opacity: ['all', 'about'].includes(section) ? 1 : 0.3 }}
 			target="_blank"
@@ -26,7 +26,7 @@ const ArticleCard = ({ section }) => {
 					<DocumentTextIcon className="inline-flex ml-2 w-5 md:w-10" />{' '}
 				</div>
 				<div className="mt-1 text-xs xl:text-2xl xl:mr-20 md:text-base lg:text-lg md:ml-2 lg:ml-5 dark:text-gray-300 text-gray-600 font-base">
-					Here you can see some of my projects and some of my silly rants!
+					Coming soon: Articles, my tips and offers.
 				</div>
 				<ArrowCircleUpIcon className="absolute stroke-gray-300 dark:stroke-gray-600 bottom-0 right-0 m-2 md:m-5 rotate-45 md:w-[60px] md:h-[60px] w-[30px] h-[30px]" />
 			</div>

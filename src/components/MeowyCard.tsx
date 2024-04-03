@@ -16,7 +16,7 @@ const MeowyCard = ({ section }) => {
 					},
 				},
 			}}
-			href="https://thismeowydoesnotexist.com"
+			href=""
 			target="_blank"
 			rel="noreferrer"
 			className="relative flex justify-center rounded-3xl bg-[#DCD7C8] dark:bg-[#0e6d98] bg-meowy col-span-1"
