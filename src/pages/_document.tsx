@@ -5,22 +5,22 @@ export default function Document() {
 	return (
 		<Html className="">
 			<Head>
-				<title>Ana Howard - Colourful Haired Human</title>
-				<link rel="icon" type="image/png" href="https://anahoward.me/images/eyesemoji.png" />
+				<title>Kieran Oliver - Colourful Haired Human</title>
+				<link rel="icon" type="image/png" href="https://kieran.co.uk/images/eyesemoji.png" />
 				<meta name="title" content="Ana Howard - Colourful Haired Human" />
 				{/* facebook  / open graph */}
 				<meta property="og:type" content="website" />
-				<meta property="og:url" content="https://www.anahoward.me"></meta>
-				<meta property="og:title" content="Ana Howard - Colourful Haired Human" />
+				<meta property="og:url" content="https://kieran.co.uk"></meta>
+				<meta property="og:title" content="Kieran Oliver - Colourful Haired Human" />
 				<meta property="og:description" content="" />
-				<meta property="og:image" content="https://anahoward.me/images/preview.png"></meta>
+				<meta property="og:image" content="https://kieran.co.uk/images/preview.png"></meta>
 
 				{/* twitter */}
 				<meta property="twitter:card" content="summary_large_image" />
-				<meta property="twitter:url" content="https://www.anahoward.me" />
-				<meta property="twitter:title" content="Ana Howard - Colourful Haired Human" />
+				<meta property="twitter:url" content="https://kieran.co.uk" />
+				<meta property="twitter:title" content="Kieran Oliver - Colourful Haired Human" />
 				<meta property="twitter:description" content="" />
-				<meta property="twitter:image" content="https://anahoward.me/images/preview.png"></meta>
+				<meta property="twitter:image" content="https://kieran.co.uk/images/preview.png"></meta>
 
 				{/* <!-- Google tag (gtag.js) --> */}
 				<Script
