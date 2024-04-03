@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import Image from 'next/image'
-import MeowyImage from '@images/favicon.png'
+import MeowyImage from '@images/coffee.png'
 
 const MeowyCard = ({ section }) => {
 	return (
