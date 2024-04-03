@@ -3,7 +3,7 @@ import { ArrowCircleUpIcon } from '@heroicons/react/outline'
 const TwitterCard = ({ section }) => {
 	return (
 		<motion.a
-			href="https://twitter.com/AnaArsonist"
+			href="https://x.com/Swiftie_"
 			target="_blank"
 			rel="noreferrer"
 			animate={{ opacity: ['all', 'about', 'contact'].includes(section) ? 1 : 0.3 }}
