@@ -47,7 +47,7 @@ const IntroCard = ({ section }) => {
         <div className="flex flex-col ml-5 justify-center 2xl:mt-10 sm:-mt-6 sm:ml-8 md:ml-6">
           <div className="lg:text-xl xl:text-2xl 2xl:mr-20 font-nunito dark:text-gray-300">
             {" "}
-            I&apos;m a 30 year-old, who loves to develop, and I'm also a coffee snob! Ryan....
+            I&apos;m a 30 year-old, who loves to develop software around my house, or websites that is. I am good with numbers and I am a self confessed coffee snob.
             <a
               
             >
